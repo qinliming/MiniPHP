@@ -1,0 +1,14 @@
+{
+    "name": "qinliming/mini-php",
+    "description": "this is an tiny mvc framework",
+    "require": {
+        "twig/twig": "^1.24"
+    },
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "qinliming",
+            "email": "qlm1991@hotmail.com"
+        }
+    ]
+}
